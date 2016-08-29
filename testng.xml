@@ -3,8 +3,9 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.metron.test.MathTest"/>
-      <class name="com.metron.test.MathCalWei"/>
+      <!-- <class name="com.metron.test.MathTest"/>
+      <class name="com.metron.test.MathCalWei"/> -->
+      <class name="com.metron.test.GymgoLogin"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

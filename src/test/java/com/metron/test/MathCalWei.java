@@ -18,7 +18,7 @@ public class MathCalWei {
   @BeforeClass(alwaysRun = true)
   public void setUp() throws Exception {
     driver = new FirefoxDriver();
-    baseUrl = "http://gymgo.com/";
+    baseUrl = "http://www.calculator.net";
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
 
